@@ -1,5 +1,5 @@
 
-package com.learning.webservice.basic.auth;
+package com.learning.rest.basic.auth;
 
 import org.springframework.context.annotation.Configuration;
 import org.springframework.http.HttpMethod;

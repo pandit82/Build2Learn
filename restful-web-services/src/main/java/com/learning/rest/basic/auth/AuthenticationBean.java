@@ -1,4 +1,4 @@
-package com.learning.webservice.basic.auth;
+package com.learning.rest.basic.auth;
 
 public class AuthenticationBean  {
 	
